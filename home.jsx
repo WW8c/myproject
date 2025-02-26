@@ -16,6 +16,9 @@ const home = () => {
 
 <h1>hi whats up</h1>
 
+<h1>hi whats up</h1>
+
+
     </div>
   )
 }
