@@ -5,7 +5,7 @@ const home = () => {
     <div>
 
       <h1>explore git </h1>
-
+<h1>hi whats up</h1>
     </div>
   )
 }
