@@ -5,6 +5,7 @@ const home = () => {
     <div>
 
       <h1>explore git </h1>
+      <p>hi who are you</p>
 
     </div>
   )
