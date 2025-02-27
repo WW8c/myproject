@@ -9,6 +9,7 @@ const header = () => {
      <p>Hello buddy</p>
      <p>new line add</p>
      <p>mrinfiernoifjrejfrgogrig</p>
+     <p>Merge code</p>
 
     </div>
   )
