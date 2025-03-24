@@ -5,6 +5,7 @@ const footer = () => {
     <div>
      <h1>welocome to Github</h1>
      <p>hi my name is Hammad</p>
+     <p>let's talk</p><p>let's talk</p>
     </div>
   )
 }
