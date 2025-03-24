@@ -12,7 +12,7 @@ const home = () => {
 
       <p>hi who are you</p>
 
-
+      <p>let's talk</p><p>let's talk</p>
 
 <h1>hi whats up</h1>
 
