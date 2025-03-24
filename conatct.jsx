@@ -7,6 +7,7 @@ const conatct = () => {
       <p>nice to talk to you</p>
       <p>hbindibidbscd</p>
       <p>my name is hammad</p>
+      <p>let's talk</p>
     </div>
   )
 }
