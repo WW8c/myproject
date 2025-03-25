@@ -8,7 +8,9 @@ const conatct = () => {
       <p>hbindibidbscd</p>
       <p>my name is hammad</p>
       <p>let's talk</p>
-      <p>let's talk</p><p>let's talk</p>
+      <p>let's talk</p>
+      <p>let's talk</p>
+      <h1>hi,hammad here</h1>
     </div>
   )
 }
