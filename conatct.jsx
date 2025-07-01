@@ -11,7 +11,7 @@ const conatct = () => {
       <p>let's talk</p>
       <p>let's talk</p>
       <h1>hi,hammad here</h1>
-      <h1>hi,welocome to github </h1>
+      <h1>hi,welocome my name is hammad</h1>
 
     </div>
   )
