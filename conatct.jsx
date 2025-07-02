@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 
 const conatct = () => {
   return (
@@ -12,9 +12,10 @@ const conatct = () => {
       <p>let's talk</p>
       <h1>hi,hammad here</h1>
       <h1>hi,welocome my name is hammad</h1>
+      <p>let's talk about fight club</p>
 
     </div>
-  )
-}
+  );
+};
 
-export default conatct
+export default conatct;
